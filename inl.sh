@@ -64,7 +64,7 @@ do
 
     elif (($choise == 10))
     then 
-        echo "Menu 11"  
+        git clone https://github.com/Rauf84/Linux.git  
     else echo "Bye bye"
     fi 
 
